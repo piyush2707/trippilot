@@ -1,5 +1,5 @@
 # TripPilot ✈️🚆
-  <img src="hero.svg" alt="Project hero banner" width="100%">
+  <img src="hero.png" alt="Project hero banner" width="100%">
 
 **An India-first travel capability for AI assistants.** TripPilot combines an installable agent skill with an MCP server so compatible assistants can search and compare journeys through structured tools.
 
